@@ -61,9 +61,9 @@ int main(){
 	Song song1("La Lung","Viet",2015,1000000);
 	Song song2("Photograph","English",2014,20000000);
 
-	sogn1.setName("Stay")
+	song1.setName("Stay");
 	song1.setNationality("Murica");
-	song1.setdate(2020)
+	song1.setdate(2020);
 	cout << song1.getNationality();
 	
 //	song1.Name = "La lung";
